@@ -33,3 +33,24 @@ The calculator includes the following functions:
    ```bash
    git clone https://github.com/your-username/scientific_calculator.git
    cd scientific_calculator
+   
+2. Install dependencies:
+flutter pub get
+
+3.Run the app:
+flutter run
+
+### Usage
+Launch the app on your device, and use the on-screen buttons for various operations. Start calculations by pressing the desired function buttons in sequence and get the result by pressing =.
+
+### Contributing
+Contributions are welcome! Please follow these steps:
+
+Fork the repository.
+Create a new branch for your feature: git checkout -b feature-name.
+Commit your changes: git commit -m 'Add feature'.
+Push to the branch: git push origin feature-name.
+Open a Pull Request.
+
+### License
+This project is licensed under the MIT License.
